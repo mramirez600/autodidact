@@ -1,6 +1,6 @@
 import axios from "axios";
 import {
-  GET_ERRORS,
+  // GET_ERRORS,
   PROFILE_LOADING,
   GET_PROFILE,
   CLEAR_CURRENT_PROFILE
