@@ -34,13 +34,13 @@ class PostItem extends Component {
       <div className="card card-body mb-3">
         <div className="row">
           <div className="col-md-2">
-            <a href="profile.html">
+            {/* <a href="profile/"> */}
               <img
                 className="rounded-circle d-none d-md-block"
                 src={post.avatar}
                 alt=""
               />
-            </a>
+            {/* </a> */}
             <br />
             <p className="text-center">{post.name}</p>
           </div>
